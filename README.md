@@ -1,4 +1,4 @@
-# RL Navigation Agent
+# GridPilot – Q-Learning Navigation Agent
 
 A Reinforcement Learning agent that learns to navigate from a start cell to a goal 
 cell in a dynamically generated grid environment, built entirely from scratch in 
